@@ -6,12 +6,12 @@
 |                                  |                        |          |
 | SCHOOL OF INFORMATION TECHNOLOGY |                        |          |
 +==================================+========================+==========+
-| NAME:                            |                        |          |
+| NAME:Leiyan M. Doga-ong          |                        |          |
 +----------------------------------+------------------------+----------+
-| SECTION:                         | DATE SUBMITTED:        |          |
+| SECTION: IDC1                    | DATE SUBMITTED:08/12/24|          |
 +----------------------------------+------------------------+----------+
 
-# \<SUBJECT CODE\> PORTFOLIO
+# \<SYSADM1\> PORTFOLIO
 
 > **Table of Contents**
 

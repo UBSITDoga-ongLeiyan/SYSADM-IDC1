@@ -1,11 +1,10 @@
-
- ![](Portfolio_Images/logo.png)                                        
- SCHOOL OF INFORMATION TECHNOLOGY 
-
- NAME:Leiyan M. Doga-ong                                 
-
-SECTION: IDC1                    DATE SUBMITTED:08/12/24        
-
+|______________________________________________________________________________|
+|                       ![](Portfolio_Images/logo.png)                         |              
+|                       SCHOOL OF INFORMATION TECHNOLOGY                       |
+|------------------------------------------------------------------------------|
+|NAME: Leiyan M. Doga-ong                                                      |
+|------------------------------------------------------------------------------|
+|SECTION: IDC1                             |DATE SUBMITTED: 08/12/2024         |
 
 # \<SYSADM1\> PORTFOLIO
 

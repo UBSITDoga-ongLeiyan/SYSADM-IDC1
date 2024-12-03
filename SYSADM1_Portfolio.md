@@ -89,7 +89,7 @@ SECTION: IDC1                             DATE SUBMITTED: 08/12/2024
 
 **Quiz 1:**
 
-![](vertopal_9b6b7a3f3fac4f05918bab38cbd6ce65/media/image1.png){width="2.8125in"
+![](Portfolio_Images/logo.png){width="2.8125in"
 height="2.8125in"}
 
 **\<delete the sample above and include your own

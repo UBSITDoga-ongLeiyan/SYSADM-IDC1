@@ -1,10 +1,9 @@
 
-                       ![](Portfolio_Images/logo.png)    
-                       
-                       SCHOOL OF INFORMATION TECHNOLOGY                       
+![](Portfolio_Images/logo.png)                         
+SCHOOL OF INFORMATION TECHNOLOGY                       
 
 NAME: Leiyan M. Doga-ong                                                      
-SECTION: IDC1                             DATE SUBMITTED: 08/12/2024         
+SECTION: IDC1            | DATE SUBMITTED: 08/12/2024         
 
 # \<SYSADM1\> PORTFOLIO
 
@@ -89,7 +88,6 @@ SECTION: IDC1                             DATE SUBMITTED: 08/12/2024
 **\<insert your scanned activities here include title\>**
 
 **Quiz 1:**
-
 ![](Portfolio_Images/logo.png)
 
 **\<delete the sample above and include your own

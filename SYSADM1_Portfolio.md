@@ -1,16 +1,21 @@
-<table style="width: 100%">
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td><img src="path-to-logo.png" width="150" height="auto"></td>
-    <td style="text-align: center; font-size: 24px;">SCHOOL OF INFORMATION TECHNOLOGY</td>
-    <td></td>
+    <td style="text-align: left; border: none;">
+      <img src="Portfolio_Images/logo.png" width="150" style="height: auto;">
+    </td>
+    <td style="text-align: center; font-size: 24px; font-weight: bold; border: none;">
+      SCHOOL OF INFORMATION TECHNOLOGY
+    </td>
+    
   </tr>
   <tr>
-    <td><strong>NAME:</strong> Leiyan M. Doga-ong</td>
-    <td><strong>DATE:</strong> IDC1</td>
+    <td style="border: none;"><strong>NAME:</strong> Leiyan M. Doga-ong</td>
+    <td style="border: none;"></td>
+    
   </tr>
   <tr>
-    <td><strong>SECTION:</strong> IDC1</td>
-    <td><strong>DATE SUBMITTED:</strong></td>
+    <td style="border: none;"><strong>SECTION:</strong> IDC1</td>
+    <td style="border: none;"><strong>DATE SUBMITTED:</strong></td>
   </tr>
 </table>
 
@@ -56,7 +61,7 @@
 |                                         |                  |          |
 | Course Reflection                       |                  |          |
 
-
+# First Grading Activities
 **\<insert your scanned activities here include title\>**
 
 **Quiz 1:**

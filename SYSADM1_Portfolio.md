@@ -1,89 +1,61 @@
+<table style="width: 100%">
+  <tr>
+    <td><img src="path-to-logo.png" width="150" height="auto"></td>
+    <td style="text-align: center; font-size: 24px;">SCHOOL OF INFORMATION TECHNOLOGY</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>NAME:</strong> Leiyan M. Doga-ong</td>
+    <td><strong>DATE:</strong> IDC1</td>
+  </tr>
+  <tr>
+    <td><strong>SECTION:</strong> IDC1</td>
+    <td><strong>DATE SUBMITTED:</strong></td>
+  </tr>
+</table>
 
-![](Portfolio_Images/logo.png)                         
-SCHOOL OF INFORMATION TECHNOLOGY                       
+## SYSADM1 PORTFOLIO
 
-NAME: Leiyan M. Doga-ong                                                      
-SECTION: IDC1            | DATE SUBMITTED: 08/12/2024         
 
-# \<SYSADM1\> PORTFOLIO
+# Table of Contents
 
-> **Table of Contents**
+| Name of Activities                      | Date of Activity | Page No. |
+|-----------------------------------------|------------------|----------|
+| **First Grading**                       |                  |          |
+| Quizzes                                 |                  |          |
+| > Quiz 1                                |                  | 1        |
+| > Quiz 2                                |                  | 3        |
+| > Quiz 3                                |                  |          |
+| Other Activities                        |                  |          |
+| > `<Name of Activity/Exercise/Library>` |                  |          |
+| > `<Research/Etc>`                      |                  |          |
+| > `<Name of Activity/Exercise/Library>` |                  |          |
+| First Grading Exam                      |                  |          |
+|                                         |                  |          |
+| **Midterms**                            |                  |          |
+| Quizzes                                 |                  |          |
+| > Quiz 1                                |                  |          |
+| > Quiz 2                                |                  |          |
+| > Quiz 3                                |                  |          |
+| Other Activities                        |                  |          |
+| > `<Name of Activity/Exercise/Library>` |                  |          |
+| > `<Research/Etc>`                      |                  |          |
+| > `<Name of Activity/Exercise/Library>` |                  |          |
+| Midterm Exam                            |                  |          |
+|                                         |                  |          |
+| **Finals**                              |                  |          |
+| Quizzes                                 |                  |          |
+| > Quiz 1                                |                  |          |
+| > Quiz 2                                |                  |          |
+| > Quiz 3                                |                  |          |
+| Other Activities                        |                  |          |
+| > `<Name of Activity/Exercise/Library>` |                  |          |
+| > `<Research/Etc>`                      |                  |          |
+| > `<Name of Activity/Exercise/Library>` |                  |          |
+| Final Exam                              |                  |          |
+|                                         |                  |          |
+| Course Reflection                       |                  |          |
 
-+----------------------------------------+--------------+--------------+
-| **Name of Activities**                 | **Date of    | **Page No.** |
-|                                        | Activity**   |              |
-+========================================+==============+==============+
-| **First Grading**                      |              |              |
-+----------------------------------------+--------------+--------------+
-| Quizzes                                |              |              |
-+----------------------------------------+--------------+--------------+
-| > Quiz 1                               |              | 1            |
-+----------------------------------------+--------------+--------------+
-| > Quiz 2                               |              | 3            |
-+----------------------------------------+--------------+--------------+
-| > Quiz 3                               |              |              |
-+----------------------------------------+--------------+--------------+
-| Other Activities                       |              |              |
-+----------------------------------------+--------------+--------------+
-| > \<Name of Activity/Exercise/Library  |              |              |
-| > Research/Etc\>                       |              |              |
-+----------------------------------------+--------------+--------------+
-| > \<Name of Activity/Exercise/Library  |              |              |
-| > Research/Etc\>                       |              |              |
-+----------------------------------------+--------------+--------------+
-| > \<Name of Activity/Exercise/Library  |              |              |
-| > Research/Etc\>                       |              |              |
-+----------------------------------------+--------------+--------------+
-| First Grading Exam                     |              |              |
-+----------------------------------------+--------------+--------------+
-| **Midterms**                           |              |              |
-+----------------------------------------+--------------+--------------+
-| Quizzes                                |              |              |
-+----------------------------------------+--------------+--------------+
-| > Quiz 1                               |              |              |
-+----------------------------------------+--------------+--------------+
-| > Quiz 2                               |              |              |
-+----------------------------------------+--------------+--------------+
-| > Quiz 3                               |              |              |
-+----------------------------------------+--------------+--------------+
-| Other Activities                       |              |              |
-+----------------------------------------+--------------+--------------+
-| > \<Name of Activity/Exercise/Library  |              |              |
-| > Research/Etc\>                       |              |              |
-+----------------------------------------+--------------+--------------+
-| > \<Name of Activity/Exercise/Library  |              |              |
-| > Research/Etc\>                       |              |              |
-+----------------------------------------+--------------+--------------+
-| > \<Name of Activity/Exercise/Library  |              |              |
-| > Research/Etc\>                       |              |              |
-+----------------------------------------+--------------+--------------+
-| Midterm Exam                           |     September         |              |
-+----------------------------------------+--------------+--------------+
-| **Finals**                             |              |              |
-+----------------------------------------+--------------+--------------+
-| Quizzes                                |              |              |
-+----------------------------------------+--------------+--------------+
-| > Quiz 1                               |              |              |
-+----------------------------------------+--------------+--------------+
-| > Quiz 2                               |              |              |
-+----------------------------------------+--------------+--------------+
-| > Quiz 3                               |              |              |
-+----------------------------------------+--------------+--------------+
-| Other Activities                       |              |              |
-+----------------------------------------+--------------+--------------+
-| > \<Name of Activity/Exercise/Library  |              |              |
-| > Research/Etc\>                       |              |              |
-+----------------------------------------+--------------+--------------+
-| > \<Name of Activity/Exercise/Library  |              |              |
-| > Research/Etc\>                       |              |              |
-+----------------------------------------+--------------+--------------+
-| > \<Name of Activity/Exercise/Library  |              |              |
-| > Research/Etc\>                       |              |              |
-+----------------------------------------+--------------+--------------+
-| Final Exam                             |              |              |
-+----------------------------------------+--------------+--------------+
-| Course Reflection                      |              |              |
-+----------------------------------------+--------------+--------------+
 
 **\<insert your scanned activities here include title\>**
 

@@ -1,5 +1,6 @@
 
-                       ![](Portfolio_Images/logo.png)                                      
+                       ![](Portfolio_Images/logo.png)    
+                       
                        SCHOOL OF INFORMATION TECHNOLOGY                       
 
 NAME: Leiyan M. Doga-ong                                                      

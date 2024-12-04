@@ -89,8 +89,7 @@ SECTION: IDC1                             DATE SUBMITTED: 08/12/2024
 
 **Quiz 1:**
 
-![](Portfolio_Images/logo.png){width="2.8125in"
-height="2.8125in"}
+![](Portfolio_Images/logo.png)
 
 **\<delete the sample above and include your own
 quizzes/activities/exam\>**

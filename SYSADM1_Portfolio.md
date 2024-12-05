@@ -62,13 +62,30 @@
 | Course Reflection                       |                  |          |
 
 # First Grading Activities
-**\<insert your scanned activities here include title\>**
+
+**Seatwork 1:**
+![Seatwork 1](Portfolio_Images/1.jpg)
+
+**Assignment 1:**
+![Assignment 1](Portfolio_Images/2.jpg)
 
 **Quiz 1:**
-![](Portfolio_Images/logo.png)
+![Quiz 1](Portfolio_Images/3.jpg)
 
-**\<delete the sample above and include your own
-quizzes/activities/exam\>**
+**First Grading Lecture Exam:**
+![First Grading Lecture Exam](Portfolio_Images/4.jpg)
+
+**First Grading Laboratory Exam:**
+![First Grading Laboratory Exam](Portfolio_Images/5a.jpg)
+![First Grading Laboratory Exam](Portfolio_Images/5b.jpg)
+
+# Midterm Activities
+
+**Seatwork 1:**
+![Seatwork 1](Portfolio_Images/6.jpg)
+
+**Assignment 1:**
+![Assignment 1](Portfolio_Images/7.jpg)
 
 **Course Reflection**
 

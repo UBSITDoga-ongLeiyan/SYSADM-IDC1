@@ -87,6 +87,21 @@
 **Assignment 1:**
 ![Assignment 1](Portfolio_Images/7.jpg)
 
+**Midterm Exam:**
+![Midterm Exam](Portfolio_Images/8.jpg)
+
+# Final Activities
+**Assignment 1:**
+![Assignment 1](Portfolio_Images/9a.jpg)
+![Assignment 1](Portfolio_Images/9b.jpg)
+
+**Assignment 2:**
+![Assignment 2](Portfolio_Images/10a.jpg)
+![Assignment 2](Portfolio_Images/10b.jpg)
+
+**Seatwork 1:**
+![Seatwork 1](Portfolio_Images/11.jpg)
+
 **Course Reflection**
 
 What were your initial expectations for the course? Did the course meet,

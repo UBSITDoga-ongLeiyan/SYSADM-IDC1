@@ -28,23 +28,23 @@
 |-----------------------------------------|------------------|----------|
 | **First Grading**                       |                  |          |
 | Quizzes                                 |                  |          |
-| > Quiz 1                                |September 10, 2024|3         |
+| > Quiz 1                                |September 10, 2024|4         |
 | Other Activities                        |                  |          |
-| > Seatwork 1                            |August 20, 2024   |          |
-| > Assignment 1                          |August 21, 2024   |          |
-| First Grading Exam                      |September 17, 2024|          |
+| > Seatwork 1                            |August 20, 2024   |3         |
+| > Assignment 1                          |August 21, 2024   |3         |
+| First Grading Exam                      |September 17, 2024|4         |
 |                                         |                  |          |
 | **Midterms**                            |                  |          |
 | Other Activities                        |                  |          |
-| > Seatwork 1                            |October 1, 2024   |          |
-| > Assignment 1                          |October 16, 202   |          |
-| Midterm Exam                            |October 29, 2024  |          |
+| > Seatwork 1                            |October 1, 2024   |7         |
+| > Assignment 1                          |October 16, 202   |8         |
+| Midterm Exam                            |October 29, 2024  |9         |
 |                                         |                  |          |
 | **Finals**                              |                  |          |
 | Other Activities                        |                  |          |
-| > Assignment 1                          |November 5, 2024  |          |
-| > Assignment 2                          |November 19, 2024 |          |
-| > Seatwork 1                            |November 26, 2024 |          |
+| > Assignment 1                          |November 5, 2024  |10        |
+| > Assignment 2                          |November 19, 2024 |11        |
+| > Seatwork 1                            |November 26, 2024 |12        |
 | Final Exam                              |December 11, 2024 |          |
 |                                         |                  |          |
 | Course Reflection                       |                  |          |
@@ -94,10 +94,7 @@
 
 What were your initial expectations for the course? Did the course meet,
 exceed, or fall short of these expectations?
-
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
+> My initial goals for the Systems Administration course were to get get a thorough understanding of how to efficiently manage and maintain computer systems. I was looking forward to learning about network setups, server management, and troubleshooting methods. In addition to discussing these subjects, the course went above and beyond my expectations by including exercises based on actual situations.
 
 What were the main topics or concepts covered in the course? How did
 these topics contribute to your understanding of the subject matter?

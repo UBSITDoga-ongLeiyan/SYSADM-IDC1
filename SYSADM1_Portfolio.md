@@ -28,36 +28,24 @@
 |-----------------------------------------|------------------|----------|
 | **First Grading**                       |                  |          |
 | Quizzes                                 |                  |          |
-| > Quiz 1                                |                  | 1        |
-| > Quiz 2                                |                  | 3        |
-| > Quiz 3                                |                  |          |
+| > Quiz 1                                |September 10, 2024|3         |
 | Other Activities                        |                  |          |
-| > `<Name of Activity/Exercise/Library>` |                  |          |
-| > `<Research/Etc>`                      |                  |          |
-| > `<Name of Activity/Exercise/Library>` |                  |          |
-| First Grading Exam                      |                  |          |
+| > Seatwork 1                            |August 20, 2024   |          |
+| > Assignment 1                          |August 21, 2024   |          |
+| First Grading Exam                      |September 17, 2024|          |
 |                                         |                  |          |
 | **Midterms**                            |                  |          |
-| Quizzes                                 |                  |          |
-| > Quiz 1                                |                  |          |
-| > Quiz 2                                |                  |          |
-| > Quiz 3                                |                  |          |
 | Other Activities                        |                  |          |
-| > `<Name of Activity/Exercise/Library>` |                  |          |
-| > `<Research/Etc>`                      |                  |          |
-| > `<Name of Activity/Exercise/Library>` |                  |          |
-| Midterm Exam                            |                  |          |
+| > Seatwork 1                            |October 1, 2024   |          |
+| > Assignment 1                          |October 16, 202   |          |
+| Midterm Exam                            |October 29, 2024  |          |
 |                                         |                  |          |
 | **Finals**                              |                  |          |
-| Quizzes                                 |                  |          |
-| > Quiz 1                                |                  |          |
-| > Quiz 2                                |                  |          |
-| > Quiz 3                                |                  |          |
 | Other Activities                        |                  |          |
-| > `<Name of Activity/Exercise/Library>` |                  |          |
-| > `<Research/Etc>`                      |                  |          |
-| > `<Name of Activity/Exercise/Library>` |                  |          |
-| Final Exam                              |                  |          |
+| > Assignment 1                          |November 5, 2024  |          |
+| > Assignment 2                          |November 19, 2024 |          |
+| > Seatwork 1                            |November 26, 2024 |          |
+| Final Exam                              |December 11, 2024 |          |
 |                                         |                  |          |
 | Course Reflection                       |                  |          |
 

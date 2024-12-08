@@ -98,26 +98,19 @@ exceed, or fall short of these expectations?
 
 What were the main topics or concepts covered in the course? How did
 these topics contribute to your understanding of the subject matter?
-
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
+> Network infrastructure, system security protocols, and user account administration were among the main 
+subjects covered in the course. These concepts greatly improved my understanding of the relationships 
+between different parts of a system and the importance of preserving system security and integrity. 
 
 Reflecting on your learning process, what were the most effective
 strategies or techniques that helped you grasp and retain the course
 material?
-
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
+>
 
 Were there any particular assignments, projects, or activities that
 significantly enhanced your learning experience? Why were they
 effective?
-
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
+>
 
 Did you encounter any challenges or difficulties during the course? How
 did you overcome these obstacles, and what did you learn from them?
